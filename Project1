@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Photon</title>
+  </head>
+  <body>
+    <h1>Pokemon Unite</h1>
+    <hr> <!-- Use to add a horizontal line-->
+    <p>Popular <b>pokemons</b> available to play in this game.</p>
+    <h2>List of Pokemons you can play.</h2>
+    <ol>
+      <!-- This is a comment you wont see this on the main page-->
+        <li><a href="https://www.pokemon.com/us/pokedex/urshifu">Urshifu</a>
+          <ul><li>Overpowered<sup><a href="https://www.pokemon.com/us/pokedex/kubfu" alt="Kubfu">[1]</a></sup></li>
+          <li>For Noobs<sub>2</sub></li>
+          <li>also for good players</li>
+          <li>Got Nerfed</li>
+        </ul>
+        </li>
+        <li>Pikachu</li>
+        <li>Slowbro</li>
+        <li>Luffy</li>
+        <li>Gengar</li>
+        <li>Zacian</li></ol>
+        <p>Hello this is a paragraph for trying break element <br>you dont need to closing tags in this element.</p>
+        <div><a href="https://en.wikipedia.org/wiki/Wolf">Wolf Details</a>
+        <a href="https://www.google.com">Search More Here......</a></div>
+          <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/892.png" alt="Urshifu image taken from Pokemon.com">
+
+
+    </ol>
+  </body>
+</html>
